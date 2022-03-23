@@ -13,7 +13,7 @@ class UserController extends Controller
 
     // Get Login Function
     public function getLogin(){
-        return Inertia::render('sender/login');
+        return Inertia::render('login');
     }
 
     // Get Parcel Function

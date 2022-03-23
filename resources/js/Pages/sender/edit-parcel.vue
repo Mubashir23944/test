@@ -26,7 +26,7 @@
                 required
               />
 
-              <a @click="submit">Ready For Biker to Pick</a>
+              <a class="btn btn-success" @click="submit">Ready For Biker to Pick</a>
             </div>
           </form>
         </div>

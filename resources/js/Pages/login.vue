@@ -29,7 +29,7 @@
                 required
               />
 
-              <a @click="submit">Login</a>
+              <a class="btn btn-success" @click="submit">Login</a>
             </div>
 
           </form>

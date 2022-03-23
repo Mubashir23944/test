@@ -14,7 +14,7 @@
                 <option value="delivered">Delivered</option>
               </select>
 
-              <a @click="submit">Change Status</a>
+              <a class="btn btn-success" @click="submit">Change Status</a>
             </div>
           </form>
         </div>

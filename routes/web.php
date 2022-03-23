@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/login', [App\Http\Controllers\Web\UserController::class, 'getLogin'])->name('get-sender-login');
+Route::get('/login', [App\Http\Controllers\Web\UserController::class, 'getLogin'])->name('get-login');
 
 // Sender Routes
 
