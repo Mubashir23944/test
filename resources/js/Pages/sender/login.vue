@@ -4,7 +4,7 @@
       <div class="col-md-8">
         <div class="card">
             <center>
-                <h2>Login Form</h2>
+                <h2>Sender Login Form</h2>
             </center>
 
           <form class="modal-content animate"
